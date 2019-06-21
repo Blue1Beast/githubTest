@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://39.98.164.65:8002/staticSpring/fileUpload/app/icon.png</string>
+					<string>http://39.98.164.65:8002/staticSpring/fileUpload/app/load_tit_2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://39.98.164.65:8002/staticSpring/fileUpload/app/icon.png</string>
+					<string>http://39.98.164.65:8002/staticSpring/fileUpload/app/load_tit_2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
